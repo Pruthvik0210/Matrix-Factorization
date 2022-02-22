@@ -1,7 +1,4 @@
 Name: Pruthvik Kakadiya
-UTA ID: 1001861545
-Machine Learning (CSE-6363)
-Programming Assignment 1
 Matrix Factorization
 
 -----------------------------------------------------------------
